@@ -1,4 +1,4 @@
-# Cow Sheep Classification using (DenseNet121)[https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf]
+# Cow Sheep Classification using [DenseNet121](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)
 ## Performing Forward Inference
 Let's say if you want to use the model to classify an image as a cow or sheep. You may type the following code to perform forward inference:
 ```python
